@@ -16,7 +16,7 @@ dev_dependencies:
   flutter_lints: ^1.0.0
   flutter_secure_storage: ^4.2.1
   dio: ^4.0.0
-  data_connection_checker: ^0.3.4
+  data_connection_checker_nulls: ^0.0.2
   bloc: ^7.2.1
   flutter_bloc: ^7.3.0
   equatable: ^2.0.3
